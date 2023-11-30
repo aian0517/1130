@@ -1,0 +1,22 @@
+@media (max-width:1080px){
+    :root{
+        --fs--title:4rem;
+        --fs--1:3em;
+    }
+    .head-content{
+        margin-top: 150px;
+    }
+    .head-title{
+        font-size: 4rem;
+    }
+    .head-text{
+        font-size: 20px;
+    }
+    a-scene{
+        max-height: 300px;
+        aspect-ratio: 1/1;
+    }
+    .navbar-toggler{
+        margin-left: auto;
+    }
+}
